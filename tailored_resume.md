@@ -10,7 +10,7 @@ Noah Williams is a distinguished Software Engineering Leader with an 18-year ten
 ### DataKernel: Director of Software Engineering (remote) — 2022 - Present
 - Noah has transformed the engineering division into a key revenue pillar for DataKernel, rapidly expanding the customer base from inception to a robust community.
 - He spearheaded the integration of cutting-edge AI technologies and the use of scalable vector databases, which significantly enhanced the product's capabilities and market positioning.
-- Under his leadership, the team has seen a substantial growth in skill development, with a focus on achieving strategic project goals that have significantly influenced the company's direction.
+- Under his leadership, the team has seen substantial growth in skill development, with a focus on achieving strategic project goals that have significantly influenced the company's direction.
 - Noah also played a critical role in defining the company’s long-term strategic initiatives, particularly in adopting AI technologies that have set new benchmarks within the industry.
 
 ### DataKernel: Senior Software Engineering Manager (remote) — 2019 - 2022
